@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Copy Project :
+
+```bash
+ git clone https://github.com/carto122/my-toko.git
+```
+
 First, run the development server:
 
 ```bash
